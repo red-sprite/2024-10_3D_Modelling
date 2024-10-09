@@ -1,1 +1,3 @@
-# 2024-10_3D_Modelling
+# 3D_Modelling
+
+Files from the Red-Sprite talk on 8/10/2024.
